@@ -1,6 +1,2 @@
-ONONONONONONOONNOONONONOONONON
 #Version 1.0
-GOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-Just started working with git.
-updated from branch cutbra
-ONONONONOONOONONONONONOONONONON
+Just a readme file.
